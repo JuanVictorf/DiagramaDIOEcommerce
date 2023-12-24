@@ -60,3 +60,6 @@ Este repositório contém o esboço de um diagrama de banco de dados para um sis
 - Pedido (Entrega) -> Relacionamento 1:1
 
 Este diagrama básico representa a estrutura do banco de dados para um sistema de e-commerce, permitindo a gestão de produtos, clientes, pedidos, fornecedores, estoque, métodos de pagamento e informações de entrega.
+
+![DiagramaDIO](https://github.com/JuanVictorf/DiagramaDIOEcommerce/assets/68507832/281cfba6-893c-4d68-90ec-59ee6ec36099)
+
